@@ -48,10 +48,10 @@
 
         default_layer {
             bindings = <
-    &uc UC_GRAVE_ACCENT 0 &uc UC_COMMERCIAL_AT 0 &kp N7  &kp N8  &kp N9  &uc UC_PLUS  0 &uc UC_ASTERISK 0         &uc UC_AMPERSAND 0     &uc UC_DOLLAR_SIGN 0      &uc UC_LEFT_SQUARE_BRACKET UC_LEFT_CURLY_BRACKET                     &uc UC_RIGHT_SQUARE_BRACKET UC_RIGHT_CURLY_BRACKET                     &uc UC_EQUALS_SIGN 0
-    &uc UC_TILDE 0        &uc UC_NUMBER_SIGN 0   &kp N4  &kp N5  &kp N6  &uc UC_MINUS 0 &uc UC_EM_DASH UC_EN_DASH &uc UC_QUESTION_MARK 0 &uc UC_EXCLAMATION_MARK 0 &uc UC_LEFT_PARENTHESIS UC_LEFT_POINTING_DOUBLE_ANGLE_QUOTATION_MARK &uc UC_RIGHT_PARENTHESIS UC_RIGHT_POINTING_DOUBLE_ANGLE_QUOTATION_MARK &uc UC_QUOTATION_MARK 0
-    &uc UC_DEGREE_SIGN 0  &uc UC_PERCENT_SIGN 0  &kp N1  &kp N2  &kp N3  &kp N0       0 &uc UC_LOW_LINE 0         &uc UC_SEMICOLON 0     &uc UC_COLON 0            &uc UC_REVERSE_SOLIDUS 0                                             &uc UC_SOLIDUS 0                                                       &uc UC_VERTICAL_LINE 0
-    &none                 &none                      &none  &none  &kp LSFT  &kp SPC &none &none  &none  &none   &none &none
+    &uc UC_GRAVE_ACCENT 0 &uc UC_COMMERCIAL_AT 0     &kp N7  &kp N8  &kp N9    &uc UC_PLUS  0 &uc UC_ASTERISK 0         &uc UC_AMPERSAND 0     &uc UC_DOLLAR_SIGN 0      &uc UC_LEFT_SQUARE_BRACKET UC_LEFT_CURLY_BRACKET                     &uc UC_RIGHT_SQUARE_BRACKET UC_RIGHT_CURLY_BRACKET                     &uc UC_EQUALS_SIGN 0
+    &uc UC_TILDE 0        &uc UC_NUMBER_SIGN 0       &kp N4  &kp N5  &kp N6    &uc UC_MINUS 0 &uc UC_EM_DASH UC_EN_DASH &uc UC_QUESTION_MARK 0 &uc UC_EXCLAMATION_MARK 0 &uc UC_LEFT_PARENTHESIS UC_LEFT_POINTING_DOUBLE_ANGLE_QUOTATION_MARK &uc UC_RIGHT_PARENTHESIS UC_RIGHT_POINTING_DOUBLE_ANGLE_QUOTATION_MARK &uc UC_QUOTATION_MARK 0
+    &uc UC_DEGREE_SIGN 0  &uc UC_PERCENT_SIGN 0      &kp N1  &kp N2  &kp N3    &kp N0       0 &uc UC_LOW_LINE 0         &uc UC_SEMICOLON 0     &uc UC_COLON 0            &uc UC_REVERSE_SOLIDUS 0                                             &uc UC_SOLIDUS 0                                                       &uc UC_VERTICAL_LINE 0
+    &none                 &none                      &none   &none   &kp LSFT  &kp SPC        &none                     &none                  &none                     &none                                                                &none                                                                  &none
             >;
         };
     };
