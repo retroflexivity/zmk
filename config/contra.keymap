@@ -23,7 +23,7 @@
             bindings = <&kp>, <&kp>;
             display-name = "Custom shift";
         }
-    }
+    };
 
     keymap {
         compatible = "zmk,keymap";
