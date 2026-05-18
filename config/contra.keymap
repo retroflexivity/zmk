@@ -39,8 +39,8 @@
 
         sym {
             bindings = <
-    &uc UC_GRAVE_ACCENT &uc UC_COMMERCIAL_AT &kp N7  &kp N8  &kp N9    &uc UC_PLUS  &uc UC_ASTERISK   &uc UC_AMPERSAND     &uc UC_DOLLAR_SIGN      &uc UC_REVERSE_SOLIDUS &uc UC_SOLIDUS &uc UC_EQUALS_SIGN
-    &uc UC_TILDE        &uc UC_NUMBER_SIGN   &kp N4  &kp N5  &kp N6    &uc UC_MINUS &uc UC_ASTERISK   &uc UC_QUESTION_MARK &uc UC_EXCLAMATION_MARK &uc UC_REVERSE_SOLIDUS &uc UC_SOLIDUS &uc UC_QUOTATION_MARK
+    &uc UC_DE_AE &uc UC_DE_AE &kp N7  &kp N8  &kp N9    &uc UC_DE_AE  &uc UC_DE_AE   &uc UC_DE_AE     &uc UC_DE_AE      &uc UC_DE_AE &uc UC_DE_AE &uc UC_DE_AE
+    &uc UC_DE_AE        &uc UC_DE_AE   &kp N4  &kp N5  &kp N6    &uc UC_DE_AE &uc UC_DE_AE   &uc UC_DE_AE &uc UC_DE_AE &uc UC_DE_AE &uc UC_DE_AE &uc UC_DE_AE
     &uc UC_APOSTROPHE   &uc UC_PERCENT_SIGN  &kp N1  &kp N2  &kp N3    &kp N0       &uc UC_LOW_LINE   &uc UC_SEMICOLON     &uc UC_COLON            &uc UC_REVERSE_SOLIDUS &uc UC_SOLIDUS &uc UC_VERTICAL_LINE
     &none               &none                &none   &none   &kp LSFT  &kp SPC      &none             &none                &none                   &none                  &none          &none
             >;
