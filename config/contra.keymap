@@ -39,9 +39,9 @@
 
         sym {
             bindings = <
-    &uc UC_GRAVE_ACCENT &uc UC_COMMERCIAL_AT &kp N7  &kp N8  &kp N9    &uc UC_PLUS_SIGN  &uc UC_ASTERISK   &uc UC_AMPERSAND     &uc UC_DOLLAR_SIGN      &uc UC_REVERSE_SOLIDUS &uc UC_SOLIDUS &uc UC_EQUALS_SIGN
-    &uc UC_TILDE        &uc UC_NUMBER_SIGN   &kp N4  &kp N5  &kp N6    &uc UC_HYPHEN_MINUS &uc UC_ASTERISK   &uc UC_QUESTION_MARK &uc UC_EXCLAMATION_MARK &uc UC_REVERSE_SOLIDUS &uc UC_SOLIDUS &uc UC_QUOTATION_MARK
-    &uc UC_APOSTROPHE   &uc UC_PERCENT_SIGN  &kp N1  &kp N2  &kp N3    &kp N0       &uc UC_LOW_LINE   &uc UC_SEMICOLON     &uc UC_COLON            &uc UC_REVERSE_SOLIDUS &uc UC_SOLIDUS &uc UC_VERTICAL_LINE
+    &uc UC_GRAVE_ACCENT &uc UC_COMMERCIAL_AT &kp N7  &kp N8  &kp N9    &uc UC_PLUS_SGN     &uc UC_ASTERISK   &uc UC_AMPERSAND     &uc UC_DOLLAR_SIGN      &uc 0x5B 0x7B          &uc 0x5D 0x7D  &uc UC_EQUALS_SIGN
+    &uc UC_TILDE        &uc UC_NUMBER_SIGN   &kp N4  &kp N5  &kp N6    &uc UC_HYPHEN_MINUS &uc 0x2014 0x2013 &uc UC_QUESTION_MARK &uc UC_EXCLAMATION_MARK &uc 0x28 0xAB          &uc 0x29 0xBB  &uc UC_QUOTATION_MARK
+    &uc UC_APOSTROPHE   &uc UC_PERCENT_SIGN  &kp N1  &kp N2  &kp N3    &kp N0              &uc UC_LOW_LINE   &uc UC_SEMICOLON     &uc UC_COLON            &uc UC_REVERSE_SOLIDUS &uc UC_SOLIDUS &uc UC_VERTICAL_LINE
     &none               &none                &none   &none   &kp LSFT  &kp SPC      &none             &none                &none                   &none                  &none          &none
             >;
         };
