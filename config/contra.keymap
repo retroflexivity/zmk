@@ -23,15 +23,15 @@
             bindings = <
     &kp TAB         &kp Q       &kp W     &kp F     &kp P     &kp B      &kp J        &kp L            &kp U      &kp Y     &kp MINUS  &kp EQUAL
     &kp ESC         &kp A       &kp R     &kp S     &kp T     &kp G      &kp M        &kp N            &kp E      &kp I     &kp O      &kp SQT
-    &kp RET         &kp Z       &kp X     &kp C     &kp D     &kp V      &kp K        &kp H            &kp COMMA  &kp DOT   &kp FSLH   &kp SEMI
-    &kp LG(LS(SPC)) &kp LG(SPC) &kp LALT  &kp LCTL  &kp LSFT  &lt FN SPC &lt SYM BSPC &mt LMETA C_MENU &kp RALT   &kp INS   &kp C_MENU &none
+    &kp BSPC        &kp Z       &kp X     &kp C     &kp D     &kp V      &kp K        &kp H            &kp COMMA  &kp DOT   &kp FSLH   &kp SEMI
+    &kp LG(LS(SPC)) &kp LG(SPC) &kp LALT  &kp LCTL  &kp LSFT  &lt FN SPC &lt SYM ENT  &mt LMETA C_MENU &kp RALT   &kp INS   &kp C_MENU &none
             >;
         };
 
         fn {
             bindings = <
     &kp F1    &kp F2        &kp F3   &kp F4    &kp F5       &kp F6       &kp F7     &kp F8      &kp F9    &kp F10   &kp F11      &kp F12
-    &none     &kp C_AC_ZOOM &kp RET  &kp ESC   &kp TAB      &none        &kp LEFT   &kp DOWN    &kp UP    &kp RIGHT &kp C_VOL_UP &kp C_VOL_DN
+    &none     &kp C_AC_ZOOM &kp RET  &kp ESC   &kp TAB      &none        &kp LEFT   &kp DOWN    &kp UP    &kp RIGHT &kp C_VOL_DN &kp C_VOL_UP
     &none     &kp PSCRN     &none    &kp CAPS  &kp C_BRI_DN &kp C_BRI_UP &kp HOME   &kp PG_DN   &kp PG_UP &kp END   &kp C_MUTE   &kp C_PP
     &none     &none         &none    &none     &none        &none        &none      &none       &none     &none     &none        &none
             >;
