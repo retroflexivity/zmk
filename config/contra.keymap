@@ -24,7 +24,7 @@
     &kp TAB         &kp Q       &kp W     &kp F     &kp P     &kp B      &kp J        &kp L            &kp U      &kp Y     &kp MINUS  &kp EQUAL
     &kp ESC         &kp A       &kp R     &kp S     &kp T     &kp G      &kp M        &kp N            &kp E      &kp I     &kp O      &kp SQT
     &kp BSPC        &kp Z       &kp X     &kp C     &kp D     &kp V      &kp K        &kp H            &kp COMMA  &kp DOT   &kp FSLH   &kp SEMI
-    &kp LG(LS(SPC)) &kp LG(SPC) &kp LALT  &kp LCTL  &kp LSFT  &lt FN SPC &lt SYM ENT  &mt LMETA C_MENU &kp RALT   &kp INS   &kp C_MENU &none
+    &kp LG(LS(SPC)) &kp LG(SPC) &kp LALT  &kp LCTL  &kp LSFT  &lt FN SPC &lt SYM RET  &mt LMETA C_MENU &kp RALT   &kp INS   &kp C_MENU &none
             >;
         };
 
